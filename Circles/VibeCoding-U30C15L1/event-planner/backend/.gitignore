@@ -1,0 +1,21 @@
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+
+# Env & secrets
+.env
+*.env
+.env.local
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# SQLite or local DB files
+*.sqlite3
